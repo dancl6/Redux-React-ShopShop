@@ -44,4 +44,3 @@ none
 
 User Email: danielclyons@yahoo.com
 
-[Deployed App](https://peaceful-cliffs-67572.herokuapp.com/ "Deployed Heroku App")
